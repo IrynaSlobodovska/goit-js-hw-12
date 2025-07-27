@@ -1,3 +1,4 @@
+// main.js
 import './css/styles.css';
 import {
   createGallery,
